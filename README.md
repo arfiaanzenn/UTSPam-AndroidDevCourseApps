@@ -1,2 +1,3 @@
 # UTSPam-AndroidDevCourseApps
-It's including some apps of Android Developer Course with Compose
+
+Setiap branch mengandung 1 aplikasi yang berbeda-beda
